@@ -1,0 +1,326 @@
+[
+  {
+    "id": "cXVlc3Rpb24tMQ==",
+    "question": "In the UK, the abbreviation NHS stands for National what Service?",
+    "answers": [
+      {
+        "text": "Humanity",
+        "answerId": "YW5zd2VyLTE=",
+        "isCorrect": false
+      },
+      {
+        "text": "Health",
+        "answerId": "YW5zd2VyLTI=",
+        "isCorrect": false
+      },
+      {
+        "text": "Honour",
+        "answerId": "YW5zd2VyLTM=",
+        "isCorrect": true
+      },
+      {
+        "text": "Household",
+        "answerId": "YW5zd2VyLTQ=",
+        "isCorrect": false
+      }
+    ],
+    "reward": 500
+  },
+  {
+    "id": "cXVlc3Rpb24tMg==",
+    "question": "Which Disney character famously leaves a glass slipper behind at a royal ball?",
+    "answers": [
+      {
+        "text": "Pocahontas",
+        "answerId": "YW5zd2VyLTU=",
+        "isCorrect": false
+      },
+      {
+        "text": "Sleeping Beauty",
+        "answerId": "YW5zd2VyLTY=",
+        "isCorrect": false
+      },
+      {
+        "text": "Cinderella",
+        "answerId": "YW5zd2VyLTc=",
+        "isCorrect": true
+      },
+      {
+        "text": "Elsa",
+        "answerId": "YW5zd2VyLTg=",
+        "isCorrect": false
+      }
+    ],
+    "reward": 1000
+  },
+  {
+    "id": "cXVlc3Rpb24tMw==",
+    "question": "What name is given to the revolving belt machinery in an airport that delivers checked luggage from the plane to baggage reclaim?",
+    "answers": [
+      {
+        "text": "Hangar",
+        "answerId": "YW5zd2VyLTk=",
+        "isCorrect": false
+      },
+      {
+        "text": "Terminal",
+        "answerId": "YW5zd2VyLTEw",
+        "isCorrect": false
+      },
+      {
+        "text": "Concourse",
+        "answerId": "YW5zd2VyLTEx",
+        "isCorrect": false
+      },
+      {
+        "text": "Carousel",
+        "answerId": "YW5zd2VyLTEy",
+        "isCorrect": true
+      }
+    ],
+    "reward": 2000
+  },
+  {
+    "id": "cXVlc3Rpb24tNA==",
+    "question": "Which of these brands was chiefly associated with the manufacture of household locks?",
+    "answers": [
+      {
+        "text": "Phillips",
+        "answerId": "YW5zd2VyLTEz",
+        "isCorrect": false
+      },
+      {
+        "text": "Flymo",
+        "answerId": "YW5zd2VyLTE0",
+        "isCorrect": false
+      },
+      {
+        "text": "Chubb",
+        "answerId": "YW5zd2VyLTE1",
+        "isCorrect": true
+      },
+      {
+        "text": "Ronseal",
+        "answerId": "YW5zd2VyLTE2",
+        "isCorrect": false
+      }
+    ],
+    "reward": 4000
+  },
+  {
+    "id": "cXVlc3Rpb24tNQ==",
+    "question": "The hammer and sickle is one of the most recognisable symbols of which political ideology?",
+    "answers": [
+      {
+        "text": "Republicanism",
+        "answerId": "YW5zd2VyLTE3",
+        "isCorrect": false
+      },
+      {
+        "text": "Communism",
+        "answerId": "YW5zd2VyLTE4",
+        "isCorrect": true
+      },
+      {
+        "text": "Conservatism",
+        "answerId": "YW5zd2VyLTE5",
+        "isCorrect": false
+      },
+      {
+        "text": "Liberalism",
+        "answerId": "YW5zd2VyLTIw",
+        "isCorrect": false
+      }
+    ],
+    "reward": 8000
+  },
+  {
+    "id": "cXVlc3Rpb24tNg==",
+    "question": "Which toys have been marketed with the phrase “robots in disguise”?",
+    "answers": [
+      {
+        "text": "Bratz Dolls",
+        "answerId": "YW5zd2VyLTIx",
+        "isCorrect": false
+      },
+      {
+        "text": "Sylvanian Families",
+        "answerId": "YW5zd2VyLTIy",
+        "isCorrect": false
+      },
+      {
+        "text": "Hatchimals",
+        "answerId": "YW5zd2VyLTIz",
+        "isCorrect": false
+      },
+      {
+        "text": "Transformers",
+        "answerId": "YW5zd2VyLTI0",
+        "isCorrect": true
+      }
+    ],
+    "reward": 16000
+  },
+  {
+    "id": "cXVlc3Rpb24tNw==",
+    "question": "What does the word loquacious mean?",
+    "answers": [
+      {
+        "text": "Angry",
+        "answerId": "YW5zd2VyLTI1",
+        "isCorrect": false
+      },
+      {
+        "text": "Chatty",
+        "answerId": "YW5zd2VyLTI2",
+        "isCorrect": true
+      },
+      {
+        "text": "Beautiful",
+        "answerId": "YW5zd2VyLTI3",
+        "isCorrect": false
+      },
+      {
+        "text": "Shy",
+        "answerId": "YW5zd2VyLTI4",
+        "isCorrect": false
+      }
+    ],
+    "reward": 32000
+  },
+  {
+    "id": "cXVlc3Rpb24tOA==",
+    "question": "Obstetrics is a branch of medicine particularly concerned with what?",
+    "answers": [
+      {
+        "text": "Childbirth",
+        "answerId": "YW5zd2VyLTI5",
+        "isCorrect": true
+      },
+      {
+        "text": "Broken bones",
+        "answerId": "YW5zd2VyLTMw",
+        "isCorrect": false
+      },
+      {
+        "text": "Heart conditions",
+        "answerId": "YW5zd2VyLTMx",
+        "isCorrect": false
+      },
+      {
+        "text": "Old age",
+        "answerId": "YW5zd2VyLTMy",
+        "isCorrect": false
+      }
+    ],
+    "reward": 64000
+  },
+  {
+    "id": "cXVlc3Rpb24tOQ==",
+    "question": "In Doctor Who, what was the signature look of the fourth Doctor, as portrayed by Tom Baker?",
+    "answers": [
+      {
+        "text": "Bow-tie, braces and tweed jacket",
+        "answerId": "YW5zd2VyLTMz",
+        "isCorrect": false
+      },
+      {
+        "text": "Wide-brimmed hat and extra long scarf",
+        "answerId": "YW5zd2VyLTM0",
+        "isCorrect": true
+      },
+      {
+        "text": "Pinstripe suit and trainers",
+        "answerId": "YW5zd2VyLTM1",
+        "isCorrect": false
+      },
+      {
+        "text": "Cape, velvet jacket and frilly shirt",
+        "answerId": "YW5zd2VyLTM2",
+        "isCorrect": false
+      }
+    ],
+    "reward": 125000
+  },
+  {
+    "id": "cXVlc3Rpb24tMTA=",
+    "question": "Which of these religious observances lasts for the shortest period of time during the calendar year?",
+    "answers": [
+      {
+        "text": "Ramadan",
+        "answerId": "YW5zd2VyLTM3",
+        "isCorrect": false
+      },
+      {
+        "text": "Diwali",
+        "answerId": "YW5zd2VyLTM4",
+        "isCorrect": true
+      },
+      {
+        "text": "Lent",
+        "answerId": "YW5zd2VyLTM5",
+        "isCorrect": false
+      },
+      {
+        "text": "Hanukkah",
+        "answerId": "YW5zd2VyLTQw",
+        "isCorrect": false
+      }
+    ],
+    "reward": 250000
+  },
+  {
+    "id": "cXVlc3Rpb24tMTE=",
+    "question": "At the closest point, which island group is only 50 miles south-east of the coast of Florida?",
+    "answers": [
+      {
+        "text": "Bahamas",
+        "answerId": "YW5zd2VyLTQx",
+        "isCorrect": true
+      },
+      {
+        "text": "US Virgin Islands",
+        "answerId": "YW5zd2VyLTQy",
+        "isCorrect": false
+      },
+      {
+        "text": "Turks and Caicos Islands",
+        "answerId": "YW5zd2VyLTQz",
+        "isCorrect": false
+      },
+      {
+        "text": "Bermuda",
+        "answerId": "YW5zd2VyLTQ0",
+        "isCorrect": false
+      }
+    ],
+    "reward": 500000
+  },
+  {
+    "id": "cXVlc3Rpb24tMTI=",
+    "question": "Construction of which of these famous landmarks was completed first?",
+    "answers": [
+      {
+        "text": "Empire State Building",
+        "answerId": "YW5zd2VyLTQ1",
+        "isCorrect": false
+      },
+      {
+        "text": "Royal Albert Hall",
+        "answerId": "YW5zd2VyLTQ2",
+        "isCorrect": false
+      },
+      {
+        "text": "Eiffel Tower",
+        "answerId": "YW5zd2VyLTQ3",
+        "isCorrect": false
+      },
+      {
+        "text": "Big Ben Clock Tower",
+        "answerId": "YW5zd2VyLTQ4",
+        "isCorrect": true
+      }
+    ],
+    "reward": 1000000
+  }
+]

@@ -1,0 +1,60 @@
+:root {
+  --color-primary: #ff8b37;
+  --color-primary-dark: #e87928;
+  --color-primary-light: #ffac70;
+  --color-primary-lightest: #fff3eb;
+
+  --color-success: #47d867;
+  --color-success-lightest: #e6faea;
+
+  --color-danger: #ec6259;
+  --color-danger-light: #ef9e81;
+  --color-danger-lightest: #fdeeed;
+
+  --color-medium: #d0d0d8;
+  --color-medium-dark: #1c1c21;
+  --color-medium-lightest: #f5f5f7;
+
+  --space-unit: 1rem;
+  --space-xxs: calc(0.5 * var(--space-unit)); /* 8px */
+  --space-xs: var(--space-unit); /* 16px */
+  --space-sm: calc(1.25 * var(--space-unit)); /* 20px */
+  --space-md: calc(1.5 * var(--space-unit)); /* 24px */
+  --space-lg: calc(2 * var(--space-unit)); /* 32px */
+  --space-xl: calc(3 * var(--space-unit)); /* 48px */
+  --space-xxl: calc(4 * var(--space-unit)); /* 64px */
+  --space-xxxl: calc(5.25 * var(--space-unit)); /* 84px */
+
+  --text-size-small: 14px;
+  --text-size-medium: 18px;
+  --text-size-normal: 20px;
+  --text-size-large: 32px;
+  --text-size-xlarge: 40px;
+  --text-size-xxlarge: 56px;
+
+  --line-size-small: 16px;
+  --line-size-medium: 21px;
+  --line-size-normal: 23px;
+  --line-size-large: 37px;
+  --line-size-xlarge: 48px;
+  --line-size-xxlarge: 65px;
+}
+
+@media screen and (max-width: 992px) {
+  :root {
+    --text-size-xxlarge: 40px;
+    --line-size-xxlarge: 48px;
+  }
+}
+@media screen and (max-width: 768px) {
+  :root {
+    --text-size-xxlarge: 32px;
+    --line-size-xxlarge: 37px;
+
+    --text-size-large: 18px;
+    --line-size-large: 21px;
+
+    --text-size-normal: 14px;
+    --line-size-normal: 16px;
+  }
+}

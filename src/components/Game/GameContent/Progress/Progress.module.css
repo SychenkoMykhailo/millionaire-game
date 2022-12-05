@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.wrapper::before,
+.wrapper::after {
+  content: '';
+  flex: 1;
+}
+.list {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.list__item {
+  margin: calc(var(--space-xxs) / 2) 0;
+}
+@media screen and (max-width: 768px) {
+  .list__item {
+    width: 100vw;
+  }
+}

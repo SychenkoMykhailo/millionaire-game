@@ -1,0 +1,10 @@
+.item {
+  flex-basis: 50%;
+  margin: var(--space-xs) 0;
+}
+@media screen and (max-width: 768px) {
+  .item {
+    flex-basis: 100%;
+    margin: calc(var(--space-xxs) / 2) 0;
+  }
+}

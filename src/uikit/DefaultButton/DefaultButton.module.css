@@ -1,0 +1,40 @@
+.button {
+  cursor: pointer;
+  max-width: 296px;
+
+  display: block;
+  width: 100%;
+
+  padding: var(--space-sm) var(--space-md);
+
+  color: #fff;
+  background-color: var(--color-primary);
+
+  border: 0;
+  outline: none;
+
+  border-radius: 12px;
+
+  text-align: center;
+  font-size: var(--text-size-normal);
+  line-height: var(--line-size-normal);
+
+  -webkit-transition: background-color 0.15s ease-in-out;
+  -moz-transition: background-color 0.15s ease-in-out;
+  -ms-transition: background-color 0.15s ease-in-out;
+  -o-transition: background-color 0.15s ease-in-out;
+  transition: background-color 0.15s ease-in-out;
+}
+.button:hover,
+.button:focus-visible {
+  background-color: var(--color-primary-light);
+}
+.button:active {
+  background-color: var(--color-primary-dark);
+}
+@media screen and (max-width: 576px) {
+  .button {
+    padding: var(--space-xs) var(--space-md);
+    max-width: 100%;
+  }
+}
