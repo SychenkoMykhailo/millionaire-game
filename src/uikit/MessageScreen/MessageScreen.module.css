@@ -74,11 +74,12 @@
   }
 
   .wrapper__inner__container__content {
+    padding: var(--space-xl) 0;
     width: 100%;
     flex-grow: 1;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
   }
   .wrapper__inner__container__content__text h2 {
